@@ -8,11 +8,11 @@ A full-stack AI-powered system for automated brain tumor **prediction** and **ca
 ## 📸 Visual Preview
 
 <p align="center">
-  <img src="outputs/1.png" alt="Step 1" width="60%"/>
-  <img src="outputs/2.png" alt="Step 2" width="60%"/>
-  <img src="outputs/3.png" alt="Step 3" width="60%"/>
-  <img src="outputs/4.png" alt="Step 4" width="60%"/>
-  <img src="outputs/5.png" alt="Step 5" width="60%"/>
+  <img src="outputs/1.png" alt="Step 1" width="40%"/>
+  <img src="outputs/2.png" alt="Step 2" width="40%"/>
+  <img src="outputs/3.png" alt="Step 3" width="40%"/>
+  <img src="outputs/4.png" alt="Step 4" width="40%"/>
+  <img src="outputs/5.png" alt="Step 5" width="40%"/>
 </p>
 
 ---
@@ -59,4 +59,32 @@ Medical-Image-Captioning/
 npm install
 npm run dev
 and python app2.py
+
+
+
+---
+
+## Project Team & Acknowledgments
+
+**Mentor**  
+Dr. Kamakshi Rautela
+
+**👨‍💻 Team Members**  
+- Ishaan Narayan 
+- Aryan Chaudhary  
+- Riya Gupta  
+- Ronit Singh
+
+---
+
+## 📬 Contact
+
+For questions, collaborations, or feedback, feel free to connect:
+
+- 📧 Email: ishaann@duck.com  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/ishaan-narayan-620560256/)
+- 📁 GitHub: [github.com/ishaanntyagi](https://github.com/ishaanntyagi)
+
+---
+
 
