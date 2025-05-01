@@ -1,4 +1,3 @@
-# Medical-Image-Captioning
 
 # 🧠 Medical Image Caption Generation using Generative Transformers
 
@@ -51,3 +50,13 @@ Medical-Image-Captioning/
 ├── label_encoder.pkl   # Class mapping
 ├── app2.py             # Flask API script
 ├── README.md
+
+
+
+
+
+## To use
+npm install
+npm run dev
+and python app2.py
+
