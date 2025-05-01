@@ -8,11 +8,11 @@ A full-stack AI-powered system for automated brain tumor **prediction** and **ca
 ## 📸 Visual Preview
 
 <p align="center">
-  <img src="outputs/1.png" alt="Step 1" width="100%"/>
-  <img src="outputs/2.png" alt="Step 2" width="100%"/>
-  <img src="outputs/3.png" alt="Step 3" width="100%"/>
-  <img src="outputs/4.png" alt="Step 4" width="100%"/>
-  <img src="outputs/5.png" alt="Step 5" width="100%"/>
+  <img src="outputs/1.png" alt="Step 1" width="60%"/>
+  <img src="outputs/2.png" alt="Step 2" width="60%"/>
+  <img src="outputs/3.png" alt="Step 3" width="60%"/>
+  <img src="outputs/4.png" alt="Step 4" width="60%"/>
+  <img src="outputs/5.png" alt="Step 5" width="60%"/>
 </p>
 
 ---
