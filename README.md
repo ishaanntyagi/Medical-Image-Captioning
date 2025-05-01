@@ -1,4 +1,3 @@
-
 # 🧠 Medical Image Caption Generation using Generative Transformers
 
 A full-stack AI-powered system for automated brain tumor **prediction** and **caption generation** from MRI scans. This project integrates **Vision Transformers (ViT)**, **Knowledge-Aware Networks (KAN)**, **Grad-CAM**, and a modern **Flask + React** interface to make deep learning results interpretable and interactive.
@@ -45,32 +44,32 @@ A full-stack AI-powered system for automated brain tumor **prediction** and **ca
 Medical-Image-Captioning/
 ├── frontend/           # React app for UI
 ├── backend/            # Flask app with model + API
-├── 1.png–5.png         # Screenshots (used in README)
+├── outputs/            # Screenshots (used in README)
 ├── model.pth           # Trained model
 ├── label_encoder.pkl   # Class mapping
 ├── app2.py             # Flask API script
 ├── README.md
-
-
-
-
-
-## To use
-npm install
-npm run dev
-and python app2.py
-
-
+```
 
 ---
 
-## Project Team & Acknowledgments
+## 🧪 To Use
+
+```bash
+npm install
+npm run dev
+python app2.py
+```
+
+---
+
+## 👥 Project Team & Acknowledgments
 
 **Mentor**  
 Dr. Kamakshi Rautela
 
 **👨‍💻 Team Members**  
-- Ishaan Narayan 
+- Ishaan Narayan  
 - Aryan Chaudhary  
 - Riya Gupta  
 - Ronit Singh
@@ -82,9 +81,7 @@ Dr. Kamakshi Rautela
 For questions, collaborations, or feedback, feel free to connect:
 
 - 📧 Email: ishaann@duck.com  
-- 🔗 LinkedIn: (https://www.linkedin.com/in/ishaan-narayan-620560256/)
-- 📁 GitHub: [github.com/ishaanntyagi](https://github.com/ishaanntyagi)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ishaan-narayan-620560256/](https://www.linkedin.com/in/ishaan-narayan-620560256/)  
+- 📁 GitHub: [https://github.com/ishaanntyagi](https://github.com/ishaanntyagi)
 
 ---
-
-
