@@ -1,4 +1,4 @@
-# 🧠 Medical Image Caption Generation using Generative Transformers
+# Medical Image Caption Generation using Generative Transformers
 
 A full-stack AI-powered system for automated brain tumor **prediction** and **caption generation** from MRI scans. This project integrates **Vision Transformers (ViT)**, **Knowledge-Aware Networks (KAN)**, **Grad-CAM**, and a modern **Flask + React** interface to make deep learning results interpretable and interactive.
 
