@@ -67,20 +67,13 @@ python app2.py
 
 **Mentor**  
 Dr. Kamakshi Rautela
-
-**👨‍💻 Team Members**  
-- Ishaan Narayan  
-- Aryan Chaudhary  
-- Riya Gupta  
-- Ronit Singh
-
 ---
 
 ## 📬 Contact
 
 For questions, collaborations, or feedback, feel free to connect:
 
-- 📧 Email: ishaann@duck.com  
+- 📧 Email: ishaanntyagi@gmail.com 
 - 🔗 LinkedIn: [https://www.linkedin.com/in/ishaan-narayan-620560256/](https://www.linkedin.com/in/ishaan-narayan-620560256/)  
 - 📁 GitHub: [https://github.com/ishaanntyagi](https://github.com/ishaanntyagi)
 
